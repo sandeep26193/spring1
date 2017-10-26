@@ -1,0 +1,100 @@
+demo.java = demo of static and non static variables
+st1.java= static and non static variables usage
+st2.java= usage methods of static variables
+--------------------------------------------------
+
+how to access static variables from one class to another class
+
+test.java and test1.java
+------------------------------------------------------------------
+
+default initialization
+
+non static and static variables
+
+default initialiation is applicable to static and non static applicable 
+its not applicable to non local variables
+
+def.java
+
+07-21-2017
+
+Methods
+1.Non static methods(instance methods)
+2.static methods
+
+method.java
+
+reg.java
+
+test2.java
+
+07-22
+
+Local Variables
+
+pending
+
+
+Type casting : one primitive type variable value assign into another primitive data type variable is called typecasting
+
+
+int x=45; the value is asssigned into the b value which is byte
+byte b=x;
+
+1.explict type: in the our specification: Bigger value assigned into smaller value====== ex.java
+2.implicit: jvm automatically assign the value from one datatype to another type variable
+
+smaller value assign into bigger value------im.java
+
+
+Inheritance:
+
+accessing the properties from one class to another class
+or 
+one object to another object
+
+
+syntax
+class subclass extends to superclass
+{
+
+}
+
+class B extends to A
+
+Note:
+
+1. without superclass object we can create a subclass object
+2.when we are creating subclass object automatically superclass object will be created
+
+
+Multi level inheritance
+
+One class extends only one class in association level is multilevel heritance
+
+Java support only
+
+when the subclass doesnot have a main method then the superclass will be excecuted
+
+
+Object class or root object
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
